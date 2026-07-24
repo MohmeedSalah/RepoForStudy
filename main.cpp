@@ -2,8 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "this is a master" << endl;
-    cout << "this is a not staging" << endl;
+    cout << "this is a staging" << endl;
 
     return 0;
 }
